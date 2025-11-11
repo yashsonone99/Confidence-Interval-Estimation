@@ -3,7 +3,7 @@
 
 # Confidence Interval Estimation
 
-This project demonstrates the construction of **99% confidence intervals for a given dataset using both "t-distribution" and "z-distribution".  
+This project demonstrates the construction of 99% confidence intervals for a given dataset using both "t-distribution" and "z-distribution".  
 It highlights key statistical inference concepts like **sampling distribution, critical values, and margin of error**.
 
 🧮 Key Steps
